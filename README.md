@@ -1,2 +1,2 @@
-# House-Price-Prediction-Data-Analyst
+# Housing-Price-Prediction-Data-Analyst
  
